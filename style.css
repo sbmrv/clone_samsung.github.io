@@ -1,0 +1,107 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: "SamsungSharpSans", arial, sans-serif;
+  font-weight: bold;
+}
+
+.header {
+  color: black;
+}
+
+.navheight {
+  height: 20px;
+}
+
+.divsize {
+  font-size: smaller;
+  height: 25px;
+}
+
+.button {
+  border-radius: 15px;
+  border-color: white;
+  width: -moz-fit-content;
+  width: fit-content;
+  height: 25px;
+  font-size: 0.55rem;
+}
+
+.textsize1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 1rem;
+}
+
+.marginleft {
+  margin-left: 200px;
+}
+
+.marginleft2 {
+  margin-left: 18px;
+}
+
+.vidtitle {
+  top: 33%;
+  left: 8%;
+  height: 150px;
+  width: 500px;
+  text-align: start;
+}
+
+.textsize2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  line-height: 2rem;
+}
+
+.button2 {
+  border-radius: 20px;
+  background-color: white;
+  height: 35px;
+  line-height: 2px;
+  transition: all(2s);
+}
+
+.button2:hover {
+  transform: scale(1px);
+}
+
+.button3 {
+  border-radius: 30px;
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+  top: 40%;
+  left: 1%;
+}
+
+.button3:hover {
+  border-radius: 30px;
+  background-color: black;
+}
+
+.button4 {
+  border-radius: 30px;
+  background-color: grey;
+  width: 40px;
+  height: 40px;
+  top: 40%;
+  right: 1%;
+}
+
+.buttondark {
+  border-radius: 20px;
+  background-color: white;
+  height: 35px;
+  line-height: 1px;
+  color: white;
+  background-color: black;
+  margin-top: 10px;
+}
+
+.center {
+  margin: auto;
+  margin-top: 2%;
+}/*# sourceMappingURL=tailwind.css.map */
